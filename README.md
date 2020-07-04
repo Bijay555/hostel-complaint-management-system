@@ -12,4 +12,7 @@ This is a project built to take complaints and queries of students regarding hos
 ![alt text](https://github.com/Bijay555/hostel-complaint-management-system/blob/master/images/Screenshot%20(255).png)
 ![alt text](https://github.com/Bijay555/hostel-complaint-management-system/blob/master/images/Screenshot%20(256).png)
 ![alt text](https://github.com/Bijay555/hostel-complaint-management-system/blob/master/images/Screenshot%20(257).png)
+![alt text](https://github.com/Bijay555/hostel-complaint-management-system/blob/master/images/Screenshot%20(260).png)
+![alt text](https://github.com/Bijay555/hostel-complaint-management-system/blob/master/images/Screenshot%20(258).png)
+![alt text](https://github.com/Bijay555/hostel-complaint-management-system/blob/master/images/Screenshot%20(259).png)
 
