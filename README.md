@@ -8,4 +8,4 @@ This is a project built to take complaints and queries of students regarding hos
 + sql
 + javascript
 
-[alt text](https://github.com/Bijay555/hostel-complaint-management-system/blob/master/images/Screenshot%20(255).png)
+![alt text](https://github.com/Bijay555/hostel-complaint-management-system/blob/master/images/Screenshot%20(255).png)
